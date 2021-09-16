@@ -22,7 +22,6 @@ public class Bac1 {
                 System.out.println("Phương trình có vô số nghiệm");
             }
         }else{
-            //float = int/(float)int;
             x = -b / (float)a;
             System.out.println("Phương trình có nghiệm x = " + x);
         }
